@@ -46,3 +46,32 @@ https://doi.org/10.47750/jptcp.2023.30.03.066
 
 Open to collaborations or remote bioinformatics roles in microbiome research, clinical data analysis, and translational omics.
 
+
+---
+
+# Clinical Metagenomic ARG Profiling (Example Project)
+
+This example project demonstrates a simple antibiotic resistance gene (ARG) summary workflow for clinical metagenomics using Python.  
+It simulates annotation parsing, summarizes ARGs by resistance class, and generates a publication-ready barplot.
+
+---
+
+## 🔬 Project Description
+
+The goal is to show how annotated metagenomic data (e.g., from AMRFinder, RGI, ABRicate) can be parsed and visualized efficiently using a reproducible Python script.  
+The example uses mock data but follows the same logic as clinical pipelines.
+
+---
+
+## 🧰 Tools Used
+
+- **Python**
+- `pandas`, `matplotlib`, `seaborn`
+- Simulated input: `mock_ARG_annotations.tsv`
+
+---
+
+## 📁 Folder Structure
+
+
+
